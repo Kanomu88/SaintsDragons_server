@@ -1,0 +1,343 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-30 18:37:32 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:root": {
+    "criteria": {
+      "custom_test_name": "2026-09-30 18:37:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-09-30 18:37:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-09-30 18:37:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2026-09-30 18:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2026-09-30 18:47:19 +0000",
+      "minecraft:lukewarm_ocean": "2026-09-30 18:45:44 +0000",
+      "minecraft:river": "2026-09-30 18:45:21 +0000",
+      "minecraft:stony_shore": "2026-09-30 18:45:33 +0000",
+      "minecraft:forest": "2026-09-30 18:37:33 +0000",
+      "minecraft:savanna": "2026-09-30 18:47:41 +0000",
+      "minecraft:plains": "2026-09-30 18:47:08 +0000"
+    },
+    "done": false
+  },
+  "saintsdragons:encounter_dragon": {
+    "criteria": {
+      "encounter_dragon": "2026-09-30 18:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-09-30 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-09-30 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-09-30 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-09-30 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-09-30 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-09-30 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-09-30 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-09-30 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-09-30 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-09-30 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-09-30 18:49:02 +0000",
+      "minecraft:piglin_brute": "2026-09-30 19:08:38 +0000",
+      "minecraft:piglin": "2026-09-30 18:46:32 +0000",
+      "minecraft:zombie": "2026-09-30 19:08:42 +0000",
+      "minecraft:drowned": "2026-09-30 18:52:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:piglin": "2026-09-30 18:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-09-30 18:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-09-30 18:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-09-30 18:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-09-30 18:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-09-30 18:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-09-30 18:49:57 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:mechanized_wraithblade": {
+    "criteria": {
+      "get_mech_wraithblade": "2026-09-30 18:51:39 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:stellothorn": {
+    "criteria": {
+      "get_stellothorn": "2026-09-30 18:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2026-09-30 18:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2026-09-30 18:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2026-09-30 18:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-09-30 18:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-09-30 18:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-09-30 18:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-09-30 18:52:08 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:harbingers_wrath": {
+    "criteria": {
+      "get_harbinger_weapon": "2026-09-30 18:52:25 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2026-09-30 18:52:29 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:voidstrike_reaper": {
+    "criteria": {
+      "get_voidstrike": "2026-09-30 18:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-09-30 19:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-09-30 19:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2026-09-30 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2026-09-30 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2026-09-30 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-09-30 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2026-09-30 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-09-30 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-09-30 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2026-09-30 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2026-09-30 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:the_obliterator": {
+    "criteria": {
+      "get_obliterator": "2026-09-30 19:12:50 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:galenic_polarizer": {
+    "criteria": {
+      "get_polarizer": "2026-09-30 19:13:02 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:charged_sands": {
+    "criteria": {
+      "get_charged_sands": "2026-09-30 19:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-09-30 19:14:09 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:abyssal_tidecaller": {
+    "criteria": {
+      "get_tidecaller": "2026-09-30 19:14:39 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:scourge_of_the_sands": {
+    "criteria": {
+      "get_scourge": "2026-09-30 19:16:05 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:thorns_of_oblivion": {
+    "criteria": {
+      "get_thorns": "2026-09-30 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
