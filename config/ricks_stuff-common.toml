@@ -1,0 +1,98 @@
+
+#Space Cruiser settings
+[space_cruiser]
+	#Allows the space cruiser to break blocks while boosting.
+	blockBreaking = true
+	#Allows the space cruiser to break solid blocks (stone, wood, ores) while boosting. When false, only fragile blocks like foliage and glass break.
+	breakSolidBlocks = false
+	#Maximum block hardness breakable by the space cruiser (e.g. stone is 1.5, obsidian is 50.0).
+	#Range: 0.0 ~ 100.0
+	maxBlockHardness = 5.5
+	#Multiplier for collision damage dealt to entities when ramming with the space cruiser.
+	#Range: 0.0 ~ 10.0
+	ramDamageMultiplier = 1.0
+	#Maximum flight speed multiplier for the space cruiser.
+	#Range: 0.1 ~ 5.0
+	maxSpeedMultiplier = 1.0
+	#Energy consumed per tick while boosting.
+	#Range: 0.0 ~ 5.0
+	energyDrainBoost = 0.15
+	#Whether the space cruiser explodes when its health reaches 0.
+	explosionOnDeath = true
+	#Makes the space cruiser invulnerable when piloted by a player in creative mode.
+	invulnerableInCreative = true
+
+#Portal Gun and teleportation settings
+[portals]
+	#Allows the portal gun to target and track online players.
+	allowPlayerTargeting = true
+	#Maximum number of expansion cards that can be installed on a portal gun.
+	#Range: 1 ~ 10
+	maxExpansionCards = 2
+	#Maximum portal lifetime in ticks before closing automatically. Set to -1 for infinite lifetime (1200 ticks = 60s).
+	#Range: -1 ~ 72000
+	maxLifetimeTicks = 1200
+	#Allows opening portals across different dimensions.
+	allowCrossDimensionTeleport = true
+	#List of dimension resource locations where portals cannot be opened (e.g. ["minecraft:the_end"]).
+	dimensionBlacklist = []
+	#Allows non-player entities (mobs, items, projectiles, vehicles) to teleport through portals.
+	allowEntityTeleportation = true
+	#Maximum shooting distance in blocks for the portal gun.
+	#Range: 16.0 ~ 1024.0
+	maxDistance = 128.0
+	#Allows the Player Locator Card to locate players across dimensions.
+	allowPlayerTrackingAcrossDimensions = true
+	#Cooldown in seconds per entity before Hazard Shield buffs can be reapplied upon teleporting.
+	#Range: 1.0 ~ 300.0
+	hazardShieldCooldownSeconds = 45.0
+
+#Weapons and explosives settings
+[weapons]
+	#Allows the Rick Prime bomb to destroy blocks on detonation.
+	rickPrimeBombBreakBlocks = true
+	#Detonation radius of the Rick Prime bomb in blocks.
+	#Range: 4 ~ 128
+	rickPrimeBombRadius = 32
+	#Whether the Rick Prime bomb eliminates all caught entities, bypassing totems and invulnerability.
+	rickPrimeBombDisintegrateEntities = true
+	#Enables the self-destruct gun.
+	selfDestructGunEnabled = true
+
+#Phoenix Protocol settings
+[phoenix_protocol]
+	#Enables clone respawning through Phoenix Capsules.
+	enabled = true
+	#Time in seconds to print a replacement clone in the Phoenix Capsule.
+	#Range: 1 ~ 600
+	printTimeSeconds = 30
+	#Maximum number of active Phoenix Capsules allowed per player.
+	#Range: 1 ~ 50
+	maxCapsulesPerPlayer = 3
+	#Allows respawning in a Phoenix Capsule located in another dimension.
+	crossDimensionSpawn = true
+
+#Omega Device settings
+[omega_device]
+	#Enables the custom 3D model and physical walkable surfaces/platforms for the Omega Device. If set to false, the apparatus model is hidden and entities will not collide with or walk on its surfaces.
+	modelEnabled = true
+	#Cooldown duration in ticks after an erasure sequence (6000 ticks = 5 minutes).
+	#Range: 0 ~ 72000
+	cooldownTicks = 6000
+	#Allows the Omega Device to target and erase players across the Multiverse.
+	allowPlayerErasure = true
+	#Allows the Omega Device to target and erase mobs and entities across the Multiverse.
+	allowMobErasure = true
+	#Allows the Omega Device to target and erase item types across the Multiverse.
+	allowItemErasure = true
+	#Allows the Omega Device to erase placed blocks in the world when their item is erased.
+	allowBlockErasure = true
+
+#Evil Morty Shield settings
+[evil_morty_shield]
+	#Cooldown duration in seconds after Evil Morty Shield hearts are depleted.
+	#Range: 1.0 ~ 300.0
+	cooldownSeconds = 10.0
+	#Whether the shield protects against all combat damage (melee, explosions, mob attacks) or only projectiles. Default is false (projectiles only).
+	protectAllDamage = false
+
